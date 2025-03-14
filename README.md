@@ -1,2 +1,9 @@
-# Ai-Based-Virtual-Quiz-System
-An AI-based virtual quiz game leveraging OpenCv2, Mediapipe, and CvZone to create an interactive experience. Importing questions via a CSV file, participants answer by raising their hands, thanks to hand gesture recognition. Developed in Python, this project highlights AI's potential to enhance user engagement in an enjoyable and educational way.
+# A virtual Quiz Based On Artificial Intelligence(OpenCv2+Mediapipe And CvZone)
+I will share with you a virtual quiz game using artificial intelligence. i will import all the questions using a csv file and then use our hand in the air to answer them. 
+the project developed using python language and it works with these libraries : 
+- numpy to install it put this command (pip install numpy)
+- mediapipe to install it put this command (pip install mediapipe)
+- opencv to install it put this command (pip install opencv-python)
+- cvzone to install it put this command (pip install cvzone)
+
+s
